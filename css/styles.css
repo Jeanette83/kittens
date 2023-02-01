@@ -13,6 +13,6 @@ section {
     border: 1px solid magenta;
     padding: 8px;
     border-radius: 4px;
-    width: 309.333px ;
+    width: calc(100%/3);
 }
 
