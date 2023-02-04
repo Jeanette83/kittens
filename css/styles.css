@@ -16,3 +16,8 @@ section {
     flex-basis: calc(100%/2);
 }
 
+
+
+.banner img {
+    width: 60rem;
+}
