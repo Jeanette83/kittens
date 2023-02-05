@@ -24,6 +24,12 @@ section {
 
 .kitty {
     display: flex;
+    gap:2%;
+}
+
+.kitty p,
+img {
+    width: calc(98%/2);
 }
 
 main section:first-child {
