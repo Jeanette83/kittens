@@ -23,5 +23,9 @@ section {
 }
 
 .flex img {
-    align-items: center;
+
+}
+
+section p {
+    align-items: flex-start;
 }
