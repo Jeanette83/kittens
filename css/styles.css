@@ -23,5 +23,5 @@ section {
 }
 
 .flex img {
-    align-items: flex-start;
+    width: 12rem;
 }
