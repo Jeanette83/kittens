@@ -28,4 +28,5 @@ section {
 
 section p {
     align-items: flex-start;
+    background-color: bisque;
 }
