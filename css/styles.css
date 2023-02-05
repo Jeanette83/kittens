@@ -22,6 +22,9 @@ section {
     width: 60rem;
 }
 
+.kitty {
+    display: flex;
+}
 
 main section:first-child {
      width: 65%;
