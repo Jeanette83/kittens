@@ -13,7 +13,7 @@ section {
     border: 1px solid magenta;
     padding: 8px;
     border-radius: 4px;
-    flex-basis: calc(100%/2);
+    
 }
 
 
@@ -22,11 +22,4 @@ section {
     width: 60rem;
 }
 
-.flex img {
 
-}
-
-.aside {
-    align-items: center;
-    background-color: aliceblue;
-}
