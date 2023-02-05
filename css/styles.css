@@ -27,5 +27,6 @@ section {
 }
 
 .aside {
-    align-items: flex-start;
+    align-items: center;
+    background-color: aliceblue;
 }
