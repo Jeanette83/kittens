@@ -22,8 +22,10 @@ section {
     width: 60rem;
 }
 
-main section:last-child {
-    background-color: bisque;
+
+main section:first-child {
+     background-color: aqua;
 }
+
 
 
