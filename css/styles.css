@@ -40,4 +40,8 @@ main section:last-child {
     width: 33%;
 }
 
+.banner img {
+    padding-bottom: 10px;
+}
+
 
