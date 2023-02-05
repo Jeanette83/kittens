@@ -24,11 +24,11 @@ section {
 
 
 main section:first-child {
-     background-color: aqua;
+     width: 65%;
 }
 
 main section:last-child {
-    background-color: bisque;
+    width: 33%;
 }
 
 
