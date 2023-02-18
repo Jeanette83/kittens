@@ -25,6 +25,7 @@ section {
 .kitty {
     display: flex;
     gap:2%;
+    align-items: flex-start;
 }
 
 .kitty p,
