@@ -12,14 +12,11 @@
 section {
     border: 1px solid magenta;
     padding: 10px;
-    border-radius: 4px;
-    
+    border-radius: 4px;   
 }
 
-
-
 .banner img {
-    width: 60rem;
+    width: 20rem;
 }
 
 .kitty {
